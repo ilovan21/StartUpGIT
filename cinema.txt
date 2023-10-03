@@ -1,3 +1,4 @@
 Cineplex Multiplex
 Odeon
 Loteanu
+AutoCinema
